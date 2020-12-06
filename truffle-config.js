@@ -27,12 +27,6 @@ module.exports = {
       network_id: '42'
     }
   },
-
-  // Set default mocha options here, use special reporters etc.
-  mocha: {
-    // timeout: 100000
-  },
-
   // Configure your compilers
   compilers: {
     solc: {
